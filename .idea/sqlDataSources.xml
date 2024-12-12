@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="f080e0f1-36ea-4009-aee6-2a934c098c6e" name="OrderSync@localhost Mapping">
+      <data-sources db="741ac057-c79b-4019-8ec2-ee1b490cf0b7" />
+    </mapping>
+  </component>
+</project>
