@@ -8,7 +8,7 @@ public class Main {
     // Informations de connexion à la base de données
     private static final String DB_URL = "jdbc:mysql://localhost:3306/OrderSync";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "SqlRoot0000";
+    private static final String DB_PASSWORD = "";
 
     public static void main(String[] args) {
         System.out.println("[INFO] Démarrage de l'application...");
